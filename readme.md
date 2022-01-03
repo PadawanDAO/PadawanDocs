@@ -2,31 +2,30 @@
 
 ## What is this?
 
-TL;DR: our docs.
+This is the official open-source documentation for PadawanDAO.
 
-Here you'll find everything from <b>how to contribute</b>, to <b>what the dao is</b> and <b>much more</b>! This is the one-stop-shop for anything you want to know about us :)
+Here, you will find everything from <b>contributing</b> to <b>DAO rules</b>, and <b>much more</b>! This is the one-stop-shop for anything you want to know about us :)
 
-If we're missing something, feel free to contribute on the docs within this repo, or ask in our [Discord](https://discord.gg/4PyERzE89X)
+If we're missing something, feel free to craete a PR on this repo, or let us know in our [Discord](https://discord.gg/4PyERzE89X)
 
 
 ## How to contribute?
 
-Highly higly reccomend you pop-up in our working group (WG) channel within the [Discord](https://discord.gg/4PyERzE89X), it is our main point of communication!
+We highly reccomend you to communicate with us in the working group (WG) channel within the [Discord](https://discord.gg/4PyERzE89X). The working group is our main point of communication!
 
-Just create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to this github repository with any changes needed
+Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to this GitHub repository with any changes needed.
 
-Up to you for figuring out excact details, but as a general:
-
+It's up to you for figuring out the exact details, but as a general:
 * You need Git installed
 * You need to clone this repository
 * Commit & push all changes
-* Pull request to update in offical
+* Pull request to update in the offical documentation
 
-You'll see all content in `/pages`, with the .mdx format. This is how we write and format the docs, check a cheatsheet for how to write in markdown [here](https://markdownlivepreview.com/)
+You will see all content in `/pages`, under the markdown format. This is how we write and format the docs, check a cheatsheet for how to write in markdown [here](https://markdownlivepreview.com/)
 
 ## Additional notes
-This is a <b>work in progress!</b> even this readme- we've just started and hoping to make a super clean and easy way for people to join & understand the DAO🤗
+This is a <b>Work in Progress!</b>, even this README! We've just started and are hoping to make a super clean and easy way for people to join & understand the DAO 🤗
 
 ---
 
-Made w/  ❤️ by the Padawans
+Made w/ ❤️ by the Padawans
