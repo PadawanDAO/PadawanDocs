@@ -1,4 +1,4 @@
-# [PadawanDocs](staging.docs.padawandao.com/)
+# [PadawanDocs](https://staging.docs.padawandao.com/)
 
 ## What is this?
 
@@ -29,4 +29,4 @@ This is a <b>work in progress!</b> even this readme- we've just started and hopi
 
 ---
 
-Made w/ ❤️ by the Padawans
+Made w/  ❤️ by the Padawans
