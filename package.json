@@ -8,7 +8,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "PadawanDAO",
   "license": "MIT",
   "dependencies": {
     "next": "^11.0.1",
